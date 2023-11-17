@@ -11,8 +11,6 @@ public class Main {
         int y= Integer.parseInt(split[0]);
         int m= Integer.parseInt(split[1]);
         int d= Integer.parseInt(split[2]);
-        switch (y%4)
-
     }
 }
 
